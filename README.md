@@ -44,6 +44,16 @@ Here are the objects that this engine is currently calibrated to print to the sc
 
 
 
-FINAL NOTE: In order to run this you will have to ungroup it. (2ND, “+”, up, “ENTER”, go to ZEL, “ENTER”).
+
+I also made major improvements to player speed. 
+I will not be covering how I did this, but you can clearly see the differnce here:
+https://user-images.githubusercontent.com/73206799/221057483-198cb708-efd4-4fcf-bd9c-1f53bd6ad373.mp4
+
+
+
+
+
+FINAL NOTE: 
+In order to run this you will have to ungroup it. (2ND, “+”, up, “ENTER”, go to ZEL, “ENTER”).
 
 There is a lot more I could add in this readme, I probably will not get around to adding them into this readme.
