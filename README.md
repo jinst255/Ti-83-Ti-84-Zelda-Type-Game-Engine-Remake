@@ -3,7 +3,7 @@ Zelda Type Game Engine Remake. This is not so much a game as an engine. And Nint
 
 Remember that this is done on a calculator, and programed entirely in TI-basic. Don't expect too much.
 
-Original engine design take from Timothy J Swan. You can find his first zelda video on his channnel here:
+Original engine design taken from Timothy J Swan. You can find his first Zelda video on his channel here:
 https://www.youtube.com/watch?v=KMMgo7NVDN8&list=PLymYmaupkVCckzGUtMMuIqex9b8-CqgYf 
 
 I redesigned and optimized as much of it as I could.
@@ -46,8 +46,11 @@ Here are the objects that this engine is currently calibrated to print to the sc
 
 
 I also made major improvements to player speed. 
-I will not be covering how I did this, but you can clearly see the differnce here:
-https://user-images.githubusercontent.com/73206799/221057483-198cb708-efd4-4fcf-bd9c-1f53bd6ad373.mp4
+I will not be covering how I did this, but you can clearly see the difference here:
+ 
+
+https://user-images.githubusercontent.com/73206799/221058158-1e94aa48-f93f-4c4b-b24b-8d6440001215.mp4
+
 
 
 
