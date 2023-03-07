@@ -6,7 +6,7 @@ Remember that this is done on a calculator, and programed entirely in TI-basic. 
 Original engine design taken from Timothy J Swan. You can find his first Zelda video on his channel here:
 https://www.youtube.com/watch?v=KMMgo7NVDN8&list=PLymYmaupkVCckzGUtMMuIqex9b8-CqgYf 
 
-I redesigned and optimized as much of it as I could.
+I redesigned and optimized as much of it as I could. A friend I know helped a little bit.
 Drawing walls and other objects to the screen is WAY faster, with my calc I estimate speeds of up to 600% faster. (6x faster). This is accomplished by only drawing the objects that are placed on the screen.  And not drawing any spaces “ ”.
 
 In order to use this speed you must add “1→D:Goto D3” to the end of your “If O=0 and N=0” statements.
